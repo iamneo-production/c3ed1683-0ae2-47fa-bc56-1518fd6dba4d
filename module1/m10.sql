@@ -1,0 +1,1 @@
+select customer_name from telecom_customer where zone = 'Mountain';
